@@ -1,4 +1,4 @@
-#DeepVolt-X: AI-Driven Modelling for Supercapacitor Electrochemical Performance
+DeepVolt-X: AI-Driven Modelling for Supercapacitor Electrochemical Performance
 
 Overview
 This project combines experimental electrochemical data and machine learning (ML) techniques to develop DeepVolt-X, an ensemble learning framework designed to predict current–voltage (CV) responses of asymmetric supercapacitor electrodes across varying scan rates. The system models and compares three different regression approaches: Random Forest (RF), XGBoost, and Deep Learning (DL), evaluating their accuracy and generalisation on experimental datasets derived from MgMn₂O₄ (MMO) and carbon cloth (CC) electrodes.
